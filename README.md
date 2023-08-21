@@ -1,4 +1,4 @@
-# FCC_challenges
+# Free Code Camp challenges
 
 ### cashRegister.js
 
@@ -23,3 +23,18 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/int
 ### EverythingBeTrue.js
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true
+
+streamroller.js
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller
+
+### BinaryAgents.js
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents
+
+### dropIt.js
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it
+
+### ConvertHtmlEntities.js
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities
