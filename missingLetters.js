@@ -1,8 +1,8 @@
 function fearNotLetter(str) {
   let arr = str.split("");
-  let asccii = str.charCodeAt(0);
+  let ascii = str.charCodeAt(0);
   for (let i = 0; i < arr.length; i++) {
-    if (str.charCodeAt(i) === asccii + i) {
+    if (str.charCodeAt(i) === ascii + i) {
       continue;
     } else {
       let x = str.charCodeAt(i) - 1;
