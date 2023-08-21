@@ -58,3 +58,11 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/int
 ### PigLatin.js
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin
+
+### WhereforeArtThou
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
+
+### diffTwoArrays.js
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
